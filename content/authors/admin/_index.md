@@ -114,10 +114,10 @@ work:
   position: Research Assistant 
   summary: |-
     Responsibilities include:
-    - Spearheaded the development of an obstacle detection system for drones utilizing the   Realsense D455 depth camera with python, numpy and OpenCV.
-    - Conducted rigorous testing across diverse lighting conditions and scenarios to ensure optimal performance and reliability.
-    - Was responsible for the integration of the obstacle avoidance stack to the drone testbed using MAVROS, ROS.
-    - Formulated and executed a suite of real-world test cases, specifically tailored to agricultural environments, to validate system effectiveness and accuracy.
+    - Worked on a project aimed at performing bimanual manipulation tasks
+    - Used an optimization-based impedance control framework to enable effective manipulation.
+    - Employed a Proximal Policy Optimization (PPO) model from Stable Baselines to adjust the stiffness parameter for higher trajectory accuracy.
+    - Submitted the work for consideration at IEEE ICRA 2025.
 - company_logo: ""
   company_name: Technology Innovation Hub for IoT, IIT Bombay, India
   company_url: "https://tihiitb.org/"
