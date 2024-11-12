@@ -45,7 +45,7 @@ tags:
 # title: DA-VIL - Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control
 # url_code: https://github.com/HugoBlox/hugo-blox-builder
 # url_dataset: '#'
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2410.19712
 # url_poster: '#'
 # url_project: "https://dualarmvil.github.io/Dual-Arm-VIL/"
 # url_slides: ""
