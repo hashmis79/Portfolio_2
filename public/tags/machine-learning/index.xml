@@ -28,21 +28,5 @@ The CNN model was implemented using Keras, with over 1.3 million trainable param
 The system also incorporates the dlib library to detect 64 facial landmarks, which are then fed into the CNN to improve emotion detection accuracy.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Moodylyser</title>
-      <link>http://localhost:4321/project_2/moodylyser/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project_2/moodylyser/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Moodylyser – Real-time Emotion Detection using Computer Vision&lt;/strong&gt;
-Project Overview: Moodylyser is a real-time emotion detection system that uses computer vision and machine learning to identify and analyze human emotions through facial gestures. The project leverages a Convolutional Neural Network (CNN) to extract facial features and detect emotions from a live video feed. The emotions detected include &amp;ldquo;Anger,&amp;rdquo; &amp;ldquo;Disgust,&amp;rdquo; &amp;ldquo;Fear,&amp;rdquo; &amp;ldquo;Happiness,&amp;rdquo; &amp;ldquo;Sadness,&amp;rdquo; &amp;ldquo;Surprise,&amp;rdquo; and &amp;ldquo;Neutral.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Development Process:&lt;/strong&gt;
-Face Detection and Preprocessing:
-Using OpenCV, the system captures a live video feed and detects the user&amp;rsquo;s face, activating the emotion recognition algorithm. The video is converted to grayscale and fed into the CNN model after resizing to the required dimensions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Model Architecture:&lt;/strong&gt;
-The CNN model was implemented using Keras, with over 1.3 million trainable parameters. The model was trained on the FER2013 dataset to classify facial gestures into corresponding emotions. Techniques such as dropouts, regularization, and kernel constraints were used to enhance the model&amp;rsquo;s performance.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Facial Landmarks Detection:&lt;/strong&gt;
-The system also incorporates the dlib library to detect 64 facial landmarks, which are then fed into the CNN to improve emotion detection accuracy.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

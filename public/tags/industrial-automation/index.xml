@@ -33,26 +33,5 @@ Working Video:
 &lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Delta PSP - Pick and Place Bot</title>
-      <link>http://localhost:4321/project_2/delta/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project_2/delta/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Delta Electronics Automation Contest (March 2021)&lt;/strong&gt;
-Project: Gantry-Based System for Efficient Segregation and Packaging&lt;/p&gt;
-&lt;p&gt;In March 2021,i was part of a team participated in the Delta Electronics Automation Contest, where we submitted a proposal to address the challenge of efficiently segregating and packaging different-sized boxes in a warehouse setting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Project Overview&lt;/strong&gt;
-Our solution proposed a gantry-based system designed to perform pick, place, and sorting operations for various box sizes. The system aimed to maximize volume occupancy inside a larger container using a vision system to determine the size and orientation of the boxes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Development Process&lt;/strong&gt;
-&lt;strong&gt;Design and Research:&lt;/strong&gt; We refined our gantry robot design through consultations with professors and industry experts.
-&lt;strong&gt;Manufacturing:&lt;/strong&gt; After finalizing the design, we employed different manufacturing techniques to produce the parts. Despite the challenges posed by the pandemic, we successfully fabricated and assembled the robot.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Achievements&lt;/strong&gt;
-Despite the obstacles, we secured the Second Category Prize and ranked in the Top 40 globally.&lt;/p&gt;
-&lt;p&gt;Project Proposal: 
-&lt;/br&gt;
-Working Video: 
-&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

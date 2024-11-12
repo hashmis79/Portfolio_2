@@ -5,12 +5,20 @@
     <link>http://localhost:4321/tags/version-control/</link>
       <atom:link href="http://localhost:4321/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Version Control</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Version Control</title>
       <link>http://localhost:4321/tags/version-control/</link>
     </image>
+    
+    <item>
+      <title>Github</title>
+      <link>http://localhost:4321/project_2/activlink/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project_2/activlink/</guid>
+      <description>&lt;p&gt;Platform used for version control and collaboration, essential for managing codebases and tracking changes across projects.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Github</title>

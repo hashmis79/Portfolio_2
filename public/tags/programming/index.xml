@@ -5,12 +5,20 @@
     <link>http://localhost:4321/tags/programming/</link>
       <atom:link href="http://localhost:4321/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Programming</title>
       <link>http://localhost:4321/tags/programming/</link>
     </image>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:4321/project_2/micromouse/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project_2/micromouse/</guid>
+      <description>&lt;p&gt;A high-level programming language known for its readability and extensive libraries, widely used for scripting, data analysis, and machine learning.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Python</title>
