@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+    </image>
+    
+    <item>
+      <title>Obstacle detection and collision avoidance for multi-rotor UAV</title>
+      <link>http://localhost:4321/project/obstacle_avoidance/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/obstacle_avoidance/</guid>
+      <description>&lt;p&gt;Drones are actively used in precision agriculture with one of its major applications of spraying pesticides, herbicides, fertilizers, etc. in the agricultural field. The aim of this project is to develop a reliable sense and avoid technology to make UAV-based spraying completely autonomous. The major challenge in achieving autonomy is the requirement of flying low in an agricultural environment with lots of obstacles like trees, poles, cables, etc.
+  As a senior engineer at TIH, IIT-Bombay, I led a team of engineers for the development of a robust obstacle detection and avoidance suite capable of navigating through common obstacles in the agricultural field. The figure below displays the functioning of our sense and avoid technology.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/project/obstacle_avoidance/index.en_files/figure-html/sna_gif.gif&#34; alt=&#34;slide_2&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+In collaboration with General Aeronautics (GA), Bangalore, we tested our technology on different scenarios.
+* Trees of different shapes and sizes
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/project/obstacle_avoidance/index.en_files/figure-html/slide_2.gif&#34; alt=&#34;slide_2&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+* Detection and avoidance at different heights,
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/project/obstacle_avoidance/index.en_files/figure-html/slide_3.gif&#34; alt=&#34;slide_3&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+* Detection and avoidance for multiple obstacles.
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/project/obstacle_avoidance/index.en_files/figure-html/slide_4.gif&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+We have successfully tested our implementation in the presence of dust and high winds. Currently, we are working towards modifying the avoidance algorithm to maximize spraying in the marked area in the agricultural field.</description>
+    </item>
+    
+    <item>
+      <title>Acti-V-Link Gripper</title>
+      <link>http://localhost:4321/project/activlink/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/activlink/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Intelligent Grasping and In-Hand Manipulation&lt;/strong&gt; (Final Year Project)
+Overview: The intelligent grasping project successfully addressed grasping location detection for non-standard objects, but further development was required in terms of post-grasp dexterity. The ability for a robot to manipulate objects post-grasp remains a critical challenge in robotic manipulation, a challenge I chose to address for my final year project on In-Hand Manipulation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design and Implementation:&lt;/strong&gt;
+&lt;strong&gt;Mechanical Design:&lt;/strong&gt;
+We identified that traditional thread-driven underactuated grippers often lacked sufficient grasping force. To resolve this, we developed a four-bar linkage mechanism with an active belt system, enabling enhanced manipulation capabilities. The active belt system was innovatively driven by a single N20 micro motor, controlling both links in a finger, compared to conventional designs that use separate motors for each link.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actuation and Control:&lt;/strong&gt;
+The active belt mechanism, powered by a spur and worm drive, was coupled with a Dynamixel servo motor to centralize control over the gripper’s finger movements. This allowed for precise in-hand manipulation of objects with varying geometries. The mechanically underactuated design with an active surface enabled both secure grasping and intricate manipulation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Innovations:&lt;/strong&gt;
+Single-motor-driven active belt system for compact and efficient control of finger movement.
+Spur and worm mechanism for centralized control over multiple finger segments, reducing mechanical complexity while maintaining high dexterity.
+Integration of a Dynamixel servo for robust control, allowing for smooth and adaptive manipulation of different objects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Micromouse</title>
+      <link>http://localhost:4321/project/micromouse/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/micromouse/</guid>
+      <description>&lt;p&gt;Created a maze solving bot in ROS-Gazebo, which implemented DFS algorithm for solving the maze.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delta PSP - Pick and Place Bot</title>
+      <link>http://localhost:4321/project/delta/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/delta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Delta Electronics Automation Contest (March 2021)&lt;/strong&gt;
+Project: Gantry-Based System for Efficient Segregation and Packaging&lt;/p&gt;
+&lt;p&gt;In March 2021,i was part of a team participated in the Delta Electronics Automation Contest, where we submitted a proposal to address the challenge of efficiently segregating and packaging different-sized boxes in a warehouse setting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Overview&lt;/strong&gt;
+Our solution proposed a gantry-based system designed to perform pick, place, and sorting operations for various box sizes. The system aimed to maximize volume occupancy inside a larger container using a vision system to determine the size and orientation of the boxes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Development Process&lt;/strong&gt;
+&lt;strong&gt;Design and Research:&lt;/strong&gt; We refined our gantry robot design through consultations with professors and industry experts.
+&lt;strong&gt;Manufacturing:&lt;/strong&gt; After finalizing the design, we employed different manufacturing techniques to produce the parts. Despite the challenges posed by the pandemic, we successfully fabricated and assembled the robot.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achievements&lt;/strong&gt;
+Despite the obstacles, we secured the Second Category Prize and ranked in the Top 40 globally.&lt;/p&gt;
+&lt;p&gt;Project Proposal: 
+&lt;/br&gt;
+Working Video: 
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vitarana Drone - Disaster Management</title>
+      <link>http://localhost:4321/project/eyantra/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/eyantra/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;e-Yantra Robotics Competition (2020)&lt;/strong&gt;
+&lt;strong&gt;Project: Autonomous Drone for Parcel Delivery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This was a national-level e-Yantra Robotics Competition, where we were challenged to develop a drone capable of delivering parcels across a city—a fascinating and complex problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Overview&lt;/strong&gt;
+We explored drone control and navigation through simulations, focusing on improving efficiency and safety for urban deliveries. Utilizing ROS (Robot Operating System) and the Gazebo simulator, I integrated algorithms to tackle issues like drone crashes and delivery speed optimization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Development Process&lt;/strong&gt;
+&lt;strong&gt;Obstacle Avoidance:&lt;/strong&gt; Extended and implemented an obstacle avoidance algorithm to navigate the drone safely through urban environments filled with buildings and bridges.
+Delivery Scheduling: Developed a scheduling algorithm to optimize delivery times, enhancing the drone&amp;rsquo;s ability to deliver more parcels in less time.
+&lt;strong&gt;Simulation and Testing:&lt;/strong&gt; Conducted extensive tests in simulated environments to ensure reliable navigation and successful delivery performance.
+*&lt;strong&gt;Achievements&lt;/strong&gt;
+Our optimized system significantly outperformed many other teams, placing us in the top 20 out of 350 national competitors. This project was a key learning experience in drone control, real-time problem-solving, and teamwork.&lt;/p&gt;
+&lt;p&gt;Project Code: 
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moodylyser</title>
+      <link>http://localhost:4321/project/moodylyser/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/moodylyser/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Moodylyser – Real-time Emotion Detection using Computer Vision&lt;/strong&gt;
+Project Overview: Moodylyser is a real-time emotion detection system that uses computer vision and machine learning to identify and analyze human emotions through facial gestures. The project leverages a Convolutional Neural Network (CNN) to extract facial features and detect emotions from a live video feed. The emotions detected include &amp;ldquo;Anger,&amp;rdquo; &amp;ldquo;Disgust,&amp;rdquo; &amp;ldquo;Fear,&amp;rdquo; &amp;ldquo;Happiness,&amp;rdquo; &amp;ldquo;Sadness,&amp;rdquo; &amp;ldquo;Surprise,&amp;rdquo; and &amp;ldquo;Neutral.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Development Process:&lt;/strong&gt;
+Face Detection and Preprocessing:
+Using OpenCV, the system captures a live video feed and detects the user&amp;rsquo;s face, activating the emotion recognition algorithm. The video is converted to grayscale and fed into the CNN model after resizing to the required dimensions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Model Architecture:&lt;/strong&gt;
+The CNN model was implemented using Keras, with over 1.3 million trainable parameters. The model was trained on the FER2013 dataset to classify facial gestures into corresponding emotions. Techniques such as dropouts, regularization, and kernel constraints were used to enhance the model&amp;rsquo;s performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Facial Landmarks Detection:&lt;/strong&gt;
+The system also incorporates the dlib library to detect 64 facial landmarks, which are then fed into the CNN to improve emotion detection accuracy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

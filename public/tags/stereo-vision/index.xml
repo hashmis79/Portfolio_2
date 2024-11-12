@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stereo Vision | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/stereo-vision/</link>
+      <atom:link href="http://localhost:4321/tags/stereo-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stereo Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Stereo Vision</title>
+      <link>http://localhost:4321/tags/stereo-vision/</link>
+    </image>
+    
+    <item>
+      <title>Applied for Patent of the Obstacle Avoidance Project completed at TIH-IoT, IIT Bombay</title>
+      <link>http://localhost:4321/post/sense_and_avoid/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/sense_and_avoid/</guid>
+      <description>&lt;p&gt;Drones are actively used in precision agriculture with one of its major applications of spraying pesticides, herbicides, fertilizers, etc. in the agricultural field. The aim of this project is to develop a reliable sense and avoid technology to make UAV-based spraying completely autonomous. The major challenge in achieving autonomy is the requirement of flying low in an agricultural environment with lots of obstacles like trees, poles, cables, etc.
+  As a senior engineer at TIH, IIT-Bombay, I led a team of engineers for the development of a robust obstacle detection and avoidance suite capable of navigating through common obstacles in the agricultural field. The figure below displays the functioning of our sense and avoid technology.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/post/sense_and_avoid/index.en_files/figure-html/sna_gif.gif&#34; alt=&#34;slide_2&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+In collaboration with General Aeronautics (GA), Bangalore, we tested our technology on different scenarios.
+* Trees of different shapes and sizes
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/post/sense_and_avoid/index.en_files/figure-html/slide_2.gif&#34; alt=&#34;slide_2&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+* Detection and avoidance at different heights,
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/post/sense_and_avoid/index.en_files/figure-html/slide_3.gif&#34; alt=&#34;slide_3&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+* Detection and avoidance for multiple obstacles.
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;http://localhost:4321/post/sense_and_avoid/index.en_files/figure-html/slide_4.gif&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+We have successfully tested our implementation in the presence of dust and high winds. Currently, we are working towards modifying the avoidance algorithm to maximize spraying in the marked area in the agricultural field.</description>
+    </item>
+    
+  </channel>
+</rss>

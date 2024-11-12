@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizing and Note Taking | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/organizing-and-note-taking/</link>
+      <atom:link href="http://localhost:4321/tags/organizing-and-note-taking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Organizing and Note Taking</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Organizing and Note Taking</title>
+      <link>http://localhost:4321/tags/organizing-and-note-taking/</link>
+    </image>
+    
+    <item>
+      <title>Notion</title>
+      <link>http://localhost:4321/stack/notion/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/stack/notion/</guid>
+      <description>&lt;p&gt;A versatile tool for project management, documentation, and collaboration, enabling efficient organization and tracking of tasks.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

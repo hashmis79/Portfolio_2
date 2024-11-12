@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Framework | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/framework/</link>
+      <atom:link href="http://localhost:4321/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <description>Framework</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Framework</title>
+      <link>http://localhost:4321/tags/framework/</link>
+    </image>
+    
+    <item>
+      <title>Moodylyser</title>
+      <link>http://localhost:4321/project_2/moodylyser/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project_2/moodylyser/</guid>
+      <description>&lt;p&gt;A framework providing libraries and tools for developing complex robotic systems, supporting communication between multiple nodes and sensor integration.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
