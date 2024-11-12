@@ -12,7 +12,7 @@ sections:
     username: admin
   design:
     background:
-      color: nebula
+      color: #111184
       image:
         filename: stacked-peaks.svg
         filters:
