@@ -14,7 +14,7 @@ sections:
     background:
       color: navy
       image:
-        filename: stacked-peaks.svg
+        filename: blue-wallpaper.png
         filters:
           brightness: 1
         parallax: false
