@@ -9,7 +9,7 @@ title: Obstacle detection and collision avoidance for multi-rotor UAV
 url_video: https://www.youtube.com/watch?v=41vC9Gt_iTY
 ---
 Drones are actively used in precision agriculture with one of its major applications of spraying pesticides, herbicides, fertilizers, etc. in the agricultural field. The aim of this project is to develop a reliable sense and avoid technology to make UAV-based spraying completely autonomous. The major challenge in achieving autonomy is the requirement of flying low in an agricultural environment with lots of obstacles like trees, poles, cables, etc.
-  As a senior engineer at TIH, IIT-Bombay, I led a team of engineers for the development of a robust obstacle detection and avoidance suite capable of navigating through common obstacles in the agricultural field. The figure below displays the functioning of our sense and avoid technology.
+  As an engineer at TIH, IIT-Bombay, I worked on the development of a robust obstacle detection and avoidance suite capable of navigating through common obstacles in the agricultural field. The figure below displays the functioning of our sense and avoidance technology.
 <div class="figure">
 <img src="{{< blogdown/postref >}}index.en_files/figure-html/sna_gif.gif" alt="slide_2" width="672" />
 <p class="caption"><span id="fig:pie"></span></p>
