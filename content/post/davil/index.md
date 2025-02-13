@@ -5,7 +5,7 @@ date: "2023-10-24"
 image:
   caption: Embed rich media such as videos and LaTeX math
 math: true
-summary: Submitted at International Conference on Robotics and Automation 2024 (ICRA)
+summary: Accepted at International Conference on Robotics and Automation 2025 (ICRA)
 tags:
 - Hugo
 - Hugo Blox Builder
@@ -35,7 +35,7 @@ links:
   url: https://dualarmvil.github.io/Dual-Arm-VIL/
 projects:
 - internal-project
-publication: Submitted at ICRA 2024
+publication: Accepted at ICRA 2025
 publication_short: ""
 publication_types:
 - article
