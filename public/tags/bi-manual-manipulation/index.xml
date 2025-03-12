@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bi-Manual Manipulation | Mohammed Saad Hashmi</title>
+    <link>http://localhost:4321/tags/bi-manual-manipulation/</link>
+      <atom:link href="http://localhost:4321/tags/bi-manual-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bi-Manual Manipulation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu2708614110388269378.png</url>
+      <title>Bi-Manual Manipulation</title>
+      <link>http://localhost:4321/tags/bi-manual-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>DA-VIL: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control</title>
+      <link>http://localhost:4321/post/davil/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/davil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

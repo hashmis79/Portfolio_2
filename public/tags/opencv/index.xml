@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenCV | Hugo Academic CV Theme</title>
+    <title>OpenCV | Mohammed Saad Hashmi</title>
     <link>http://localhost:4321/tags/opencv/</link>
       <atom:link href="http://localhost:4321/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
     <description>OpenCV</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:4321/media/icon_hu2708614110388269378.png</url>
       <title>OpenCV</title>
       <link>http://localhost:4321/tags/opencv/</link>
     </image>

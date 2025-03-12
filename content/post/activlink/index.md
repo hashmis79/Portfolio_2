@@ -12,8 +12,8 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Karthik Swamination
-- admin
+- Karthik Swamination*
+- Mohammed Saad Hashmi*
 - Mohammed Alqama Shaikh
 - Vikas M Phalle
 date: "2024-04-21T00:00:00Z"

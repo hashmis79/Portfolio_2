@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bi-Manual Manipultion | Hugo Academic CV Theme</title>
+    <title>Bi-Manual Manipultion | Mohammed Saad Hashmi</title>
     <link>http://localhost:4321/tags/bi-manual-manipultion/</link>
       <atom:link href="http://localhost:4321/tags/bi-manual-manipultion/index.xml" rel="self" type="application/rss+xml" />
     <description>Bi-Manual Manipultion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:4321/media/icon_hu2708614110388269378.png</url>
       <title>Bi-Manual Manipultion</title>
       <link>http://localhost:4321/tags/bi-manual-manipultion/</link>
     </image>
@@ -36,14 +36,6 @@
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>DA-VIL: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control</title>
-      <link>http://localhost:4321/post/davil/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/davil/</guid>
-      <description></description>
     </item>
     
   </channel>
