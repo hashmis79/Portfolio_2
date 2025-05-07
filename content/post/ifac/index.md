@@ -5,7 +5,7 @@ date: "2023-10-24"
 image:
   caption: Embed rich media such as videos and LaTeX math
 math: true
-summary: Submitted at International Conference on Sensing, Control and Automation Technologies for Agriculture - AGRICONTROL 2025
+summary: Accepted at International Conference on Sensing, Control and Automation Technologies for Agriculture - AGRICONTROL 2025
 tags:
 - Hugo
 - Hugo Blox Builder
