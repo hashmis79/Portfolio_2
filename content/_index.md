@@ -7,7 +7,7 @@ sections:
   content:
     button:
       text: Download CV
-      url: https://drive.google.com/file/d/1T-5IGr_bIZON2AnEhXTB9VW13QYdsZln/view?usp=drive_link
+      url: https://drive.google.com/file/d/1PZTvqdCW1-U1XJ5e46LQfF_FQm_y79cr/view?usp=sharing
     text: ""
     username: admin
   design:
