@@ -32,10 +32,10 @@ links:
   url: https://sense-and-avoid.github.io/
 projects:
 - internal-project
-publication: Submitted at IFAC AGRICONTROL 2025
+publication: Accepted at IFAC AGRICONTROL 2025
 publication_short: ""
 publication_types:
-- article
+- paper-conference
 # publishDate: "2024-09-21T00:00:00Z"
 tags:
 - Obstacle Avoidance
